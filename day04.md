@@ -165,7 +165,7 @@ int 21h
    - 这步可以指定目标文件的生成目录，例如 `c:\windows\Users\*\Desktop\1`
    - 如果没有特殊的命名要求，可以省略不写
 
-   ![键入目标文件的名称](C:\Users\88561\Desktop\Pwn\MarkDown\images\day004_0x02_3.png)
+   ![键入目标文件的名称](images\day004_0x02_3.png)
 
    
 
@@ -174,7 +174,7 @@ int 21h
    - 这个文件是编译器将源程序编译为目标文件的过程中产生的中间结果
    - 这个文件并不是必要的，所以省略不填，跳过即可
 
-   ![键入列表文件的名称](C:\Users\88561\Desktop\Pwn\MarkDown\images\day004_0x02_4.png)
+   ![键入列表文件的名称](images\day004_0x02_4.png)
 
    
 
@@ -184,7 +184,7 @@ int 21h
 
    - 这个文件并不是必要的，所以省略不填，跳过即可
 
-   ![键入交叉引用文件的名称](C:\Users\88561\Desktop\Pwn\MarkDown\images\day004_0x02_5.png)
+   ![键入交叉引用文件的名称](images\day004_0x02_5.png)
 
 6. 编译完成
 
@@ -202,7 +202,7 @@ int 21h
 
    - 显示基本同上，显示程序简介，然后需要键入要被连接的目标文件名称
 
-   ![link连接器初始信息](C:\Users\88561\Desktop\Pwn\MarkDown\images\day004_0x03_1.png)
+   ![link连接器初始信息](mages\day004_0x03_1.png)
 
    
 
@@ -210,7 +210,7 @@ int 21h
 
    - 也是可以简写，省略后缀，条件同上
 
-   ![键入目标文件名](C:\Users\88561\Desktop\Pwn\MarkDown\images\day004_0x03_2.png)
+   ![键入目标文件名](images\day004_0x03_2.png)
 
    
 
@@ -220,7 +220,7 @@ int 21h
    - 这里也可以指定可执行文件的生成目录
    - 如果没有特殊的命名要求，可以省略不写
 
-   ![键入可执行文件的名称](C:\Users\88561\Desktop\Pwn\MarkDown\images\day004_0x03_3.png)
+   ![键入可执行文件的名称](images\day004_0x03_3.png)
 
    
 
